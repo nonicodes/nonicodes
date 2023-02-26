@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nonicodes
-- 👀 I’m interested in developing skills to be a Fullstack Developer
-- 🌱 I’m currently learning HTML, CSS and JS and looking to learn Python and Java soon
+- 👀 I’m interested in developing skills to be a DevOps Manager
+- 🌱 I’m currently improving my skills in Python, C#, Java, Enterprise Programming and Databases
+- 🌱 I’m proficient in HTML, CSS and JavaScript,
 - 💞️ I’m looking to collaborate with expert programers who can guide me towards achieving my goal
 
 
